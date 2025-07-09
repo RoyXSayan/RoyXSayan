@@ -24,6 +24,11 @@
   </a>
 </p>
 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=RoyXSayan&label=Profile%20visits&color=0e75b6&style=flat" alt="RoyXSayan" />
+</p>
+
+
 ---
 
 ### 💻 About Me
