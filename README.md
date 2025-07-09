@@ -19,9 +19,7 @@
   <a href="https://sayan-portfolio-delta.vercel.app/assets/Sayan_Roy_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄 RESUME-FF6B6B?style=for-the-badge&logo=read-the-docs&logoColor=white" />
   </a>
-  <a href="https://linktr.ee/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/🌿 LINKTREE-2ECC71?style=for-the-badge&logo=linktree&logoColor=white" />
-  </a>
+
 </p>
 
 <p align="right">
