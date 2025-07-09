@@ -88,19 +88,13 @@
 
 ---
 
-### 🎨 Contribution Graph
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=RoyXSayan&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
 ### 🔍 Coding Principles
 
-> *"Code is poetry written in logic."*
+> 💬 "Code is not just syntax – it's the art of creating impact."
 
-💡 Always learning • 🔧 Always building • 🤝 Always collaborating
+🔁 **Code. Learn. Repeat.**  
+💡 **Think in systems. Design with empathy.**  
+🚀 **Deliver value, not just code.**
 
 ---
 
